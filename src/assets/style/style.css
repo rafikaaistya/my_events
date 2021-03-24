@@ -1,0 +1,132 @@
+.header-landing {
+  position: fixed;
+  top: 0px;
+  background-color: rgb(0, 0, 0);
+  z-index: 1;
+  width: 100%;
+  height: 50px;
+  box-shadow: 0px -4px 40px rgba(0, 0, 0, 0.15);
+}
+
+.body-container {
+  background-color: #2b273f !important;
+  min-height: 100vh;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.event {
+  min-height: 90vh;
+  width: 100%;
+}
+
+.b {
+  top: 200px !important;
+}
+
+.top {
+  margin-top: 50px;
+  background-image: url("../img/creepy-dazzle-dota-2-29.jpg");
+  height: 470px;
+  width: 100%;
+}
+
+.img-event {
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.footer-landing {
+  position: fixed;
+  bottom: 0px;
+  background-color: rgb(0, 0, 0);
+  z-index: 1;
+  width: 100%;
+  height: 80px !important;
+  box-shadow: 0px -4px 40px rgba(0, 0, 0, 0.15);
+}
+
+.button-login {
+  width: 100px;
+  height: 35px;
+  background-color: black;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+}
+
+.button-register {
+  width: 160px;
+  height: 35px;
+  background: linear-gradient(171.45deg, #f37721 34.36%, #f89e1c 113.58%);
+  border-radius: 5px;
+  color: white;
+  border: 1px solid #f89e1c;
+}
+
+.button-loginn {
+  width: 200px;
+  height: 45px;
+  background: linear-gradient(171.45deg, #f37721 34.36%, #f89e1c 113.58%);
+  border-radius: 5px;
+  color: white;
+  border: 1px solid #f89e1c;
+}
+
+.button-fb {
+  width: 200px;
+  height: 45px;
+  background: #3b5998;
+  border-radius: 5px;
+  color: white;
+  border: 1px solid #3b5998;
+}
+
+.img-tournament {
+  object-fit: cover;
+  width: 90px;
+  border-radius: 10px;
+}
+
+.button-join {
+  width: 150px;
+  height: 35px;
+  background: linear-gradient(171.45deg, #f89e1c 50.58%, #f37721 113.58%);
+  border-radius: 5px;
+  border: 1px solid #f89e1c;
+  color: white;
+}
+
+.button-create {
+  width: 210px;
+  height: 35px;
+  background: transparent;
+  border-radius: 10px;
+  border: 1px solid white;
+  color: white;
+  font-size: 16px;
+}
+
+.button-status {
+  width: 100px;
+  height: 35px;
+  background: transparent;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+  font-size: 16px;
+}
+
+.slick-slide {
+  height: 320px;
+  box-sizing: border-box;
+}
+
+.slick-slide img {
+  height: 100%;
+  width: 100%;
+  border: 1.5px solid black;
+  box-sizing: border-box;
+  margin-right: 10px;
+}
